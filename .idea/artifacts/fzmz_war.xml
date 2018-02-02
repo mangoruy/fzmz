@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="fzmz:war">
+    <output-path>$PROJECT_DIR$/../fzmz/target</output-path>
+    <root id="archive" name="rds-sys.war">
+      <element id="artifact" artifact-name="fzmz:war exploded" />
+    </root>
+  </artifact>
+</component>
